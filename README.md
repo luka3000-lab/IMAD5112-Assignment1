@@ -65,7 +65,7 @@ GitHub Actions:
 
 Installation-
 the repository:
--https://github.com/luka3000-lab/IMAD5112-Assignment1.git
+- https://github.com/luka3000-lab/IMAD5112-Assignment1/tree/main
 -Open the project in Android Studio.
 
 -Connect an emulator or Android device.
